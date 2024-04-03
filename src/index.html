@@ -1,0 +1,31 @@
+<!-- The html file, holding the div 'scene-container' where the three.js scene will be rendered into. -->
+<!-- @author phhofm / https://phhofm.github.io -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Legal History Timeline</title>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+</head>
+
+<body>
+	<!-- 这个div包含时间段指示符 -->
+	<div id="infoControls" style="
+        position: fixed;
+        left: 10px;
+        top: 5px;
+        z-index: 50;
+        color: azure;
+        font-size: 2rem;
+      "></div>
+	<!-- 当球体被点击时，这个div保存短文本 -->
+	<div id="infoText"></div>
+	<!-- This div holds the Scene for TimeLine 这个div保存了时间轴的场景 -->
+	<div id="scene-container"></div>
+</body>
+
+<script>
+import './index.ts';
+</script>
+
+</html>

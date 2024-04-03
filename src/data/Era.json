@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "title":"唐朝",
+        "startyear":1800,
+        "endyear":1900,
+        "events":[],
+        "timespans":[]
+    },
+    {
+        "id":2,
+        "title":"宋朝",
+        "startyear":1910,
+        "endyear":2000,
+        "events":[],
+        "timespans":[]
+    }
+]

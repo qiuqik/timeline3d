@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "事件1",
+        "startyear":1801,
+        "endyear":1801,
+        "teaser": "事件1的简介",
+        "content": "事件1的详细内容",
+        "type": 1,
+        "image":"https://dylan-ch.oss-cn-shanghai.aliyuncs.com/%E5%8D%8E%E7%AB%A0%E5%BE%A1%E9%94%A6/10%E7%BB%9B%E7%BA%A2%E5%9C%B0%E5%9B%A2%E9%BE%99%E7%BB%87%E9%87%91%E5%A6%86%E8%8A%B1%E7%BC%8E%E9%BE%99%E8%A2%8D%E6%96%99.JPG",
+        "era":1,
+        "timespans":[],
+        "metaevents":[],
+        "events":[]
+    },
+    {
+        "id": 2,
+        "name": "事件2",
+        "startyear":1901,
+        "endyear":1911,
+        "teaser": "事件2的简介",
+        "content": "事件2的详细内容",
+        "type": 2,
+        "image":"https://dylan-ch.oss-cn-shanghai.aliyuncs.com/%E5%8D%8E%E7%AB%A0%E5%BE%A1%E9%94%A6/10%E7%BB%9B%E7%BA%A2%E5%9C%B0%E5%9B%A2%E9%BE%99%E7%BB%87%E9%87%91%E5%A6%86%E8%8A%B1%E7%BC%8E%E9%BE%99%E8%A2%8D%E6%96%99.JPG",
+        "era":2,
+        "timespans":[],
+        "metaevents":[],
+        "events":[]
+    }
+]
