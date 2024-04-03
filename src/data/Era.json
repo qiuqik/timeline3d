@@ -1,18 +1,162 @@
 [
     {
-        "id":1,
-        "title":"唐朝",
-        "startyear":1800,
-        "endyear":1900,
-        "events":[],
-        "timespans":[]
+        "id": 1,
+        "title": "原始社会",
+        "startyear": -1700000,
+        "endyear": -2070,
+        "events": [],
+        "timespans": []
     },
     {
-        "id":2,
-        "title":"宋朝",
-        "startyear":1910,
-        "endyear":2000,
-        "events":[],
-        "timespans":[]
+        "id": 2,
+        "title": "夏朝",
+        "startyear": -2070,
+        "endyear": -1600,
+        "events": [],
+        "timespans": []
+    },
+    {
+        "id": 3,
+        "title": "商朝",
+        "startyear": -1600,
+        "endyear": -1046,
+        "events": [],
+        "timespans": []
+    },
+    {
+        "id": 4,
+        "title": "西周",
+        "startyear": -1046,
+        "endyear": -771,
+        "events": [],
+        "timespans": []
+    },
+    {
+        "id": 5,
+        "title": "春秋时期",
+        "startyear": -770,
+        "endyear": -476,
+        "events": [],
+        "timespans": []
+    },
+    {
+        "id": 6,
+        "title": "战国时期",
+        "startyear": -476,
+        "endyear": -221,
+        "events": [],
+        "timespans": []
+    },
+    {
+        "id": 7,
+        "title": "秦朝",
+        "startyear": -221,
+        "endyear": -206,
+        "events": [],
+        "timespans": []
+    },
+    {
+        "id": 8,
+        "title": "汉朝",
+        "startyear": -206,
+        "endyear": 220,
+        "events": [],
+        "timespans": []
+    },
+    {
+        "id": 9,
+        "title": "三国",
+        "startyear": 220,
+        "endyear": 280,
+        "events": [],
+        "timespans": []
+    },
+    {
+        "id": 10,
+        "title": "晋朝",
+        "startyear": 266,
+        "endyear": 420,
+        "events": [],
+        "timespans": []
+    },
+    {
+        "id": 11,
+        "title": "南北朝",
+        "startyear": 420,
+        "endyear": 589,
+        "events": [],
+        "timespans": []
+    },
+    {
+        "id": 12,
+        "title": "隋朝",
+        "startyear": 581,
+        "endyear": 618,
+        "events": [],
+        "timespans": []
+    },
+    {
+        "id": 13,
+        "title": "唐朝",
+        "startyear": 618,
+        "endyear": 907,
+        "events": [],
+        "timespans": []
+    },
+    {
+        "id": 14,
+        "title": "五代十国",
+        "startyear": 907,
+        "endyear": 960,
+        "events": [],
+        "timespans": []
+    },
+    {
+        "id": 15,
+        "title": "宋朝",
+        "startyear": 960,
+        "endyear": 1279,
+        "events": [],
+        "timespans": []
+    },
+    {
+        "id": 16,
+        "title": "元朝",
+        "startyear": 1271,
+        "endyear": 1368,
+        "events": [],
+        "timespans": []
+    },
+    {
+        "id": 17,
+        "title": "明朝",
+        "startyear": 1368,
+        "endyear": 1644,
+        "events": [],
+        "timespans": []
+    },
+    {
+        "id": 18,
+        "title": "清朝",
+        "startyear": 1636,
+        "endyear": 1912,
+        "events": [],
+        "timespans": []
+    },
+    {
+        "id": 19,
+        "title": "近代",
+        "startyear": 1840,
+        "endyear": 1949,
+        "events": [],
+        "timespans": []
+    },
+    {
+        "id": 20,
+        "title": "现代",
+        "startyear": 1949,
+        "endyear": 2024,
+        "events": [],
+        "timespans": []
     }
 ]

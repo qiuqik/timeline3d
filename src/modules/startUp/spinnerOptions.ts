@@ -5,7 +5,7 @@ export const spinnerOptions = {
     radius: 0,                              // The radius of the inner circle
     scale: 3,                               // Scales overall size of the spinner
     corners: 1,                             // Corner roundness (0..1)
-    color: '#00f3ff',                       // CSS color or array of colors
+    color: '#faff72',                       // CSS color or array of colors
     fadeColor: 'transparent',               // CSS color or array of colors
     speed: 0.6,                             // Rounds per second
     rotate: 0,                              // The rotation offset

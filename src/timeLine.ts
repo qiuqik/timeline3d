@@ -80,7 +80,7 @@ class TimeLine {
     density: 289.1476416322727,
     opacity: 1,
     opacityRandom: true,
-    size: 2,
+    size: 1.5,
     sizeRandom: true,
     moveSpeed: 0.1,
     onHover: false, // 由于我们正在进行的画布分层，这些交互性参数目前不起作用，我们已经在前景中捕获了三个ejs的鼠标事件。在控件中禁用。
@@ -100,15 +100,15 @@ class TimeLine {
     eventPlaneMoveOverColor = 0xffffff,
     eventPlaneColors = [0x0074d9, 0xb10dc9, 0xffdc00, 0xff4136],
     disableConsoleOutput = false,
-    bars = 4,
+    bars = 3,
     fontFamily = "'lucida grande', 'lucida sans unicode', 'lucida,helvetica','Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei'",//font-family: "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
     backgroundColor = 0x472D30,//背景颜色
     timelineColor = 0xFFE1A8,//时间线颜色
     particleColor = 0xC9CBA3,//背景小点点颜色
     cameraFov = 25,
     sphereRadius = 1,
-    sphereWidthSegments = 50,
-    sphereHeightSegments = 15,
+    sphereWidthSegments = 60,//事件圆点击后的大小
+    sphereHeightSegments = 25,//事件圆未点击时的大小
     clickedSize = 2,
     cameraPositionX = 0,
     cameraPositionY = 16,

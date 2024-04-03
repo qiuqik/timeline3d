@@ -319,7 +319,7 @@ const createDatePeriodLeft = (
       (periodLineStartDate / 100) * dateLineSpace * -1;
     let dateLineEndPosition: number =
       (periodLineEndDate / 100) * dateLineSpace * -1;
-    let color = colors[i];
+    let color = colors[i%8];
     let dateLineMaterial: THREE.LineBasicMaterial = new THREE.LineBasicMaterial(
       {
         color: color,
